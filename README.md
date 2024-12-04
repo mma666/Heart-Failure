@@ -1,5 +1,5 @@
 
-# Flight Price Prediction
+# Heart Failure
 
 ![](./Images/heart-failure35.jpg)
 
@@ -62,11 +62,11 @@ To further enhance the accuracy and reliability of the model, we recommend expan
 ## Repository Structure
 
 ```
-├── Images: All the images including the one for README
-├── Notebook: Main Notebook
-├── PDFs: PDF files of the notebook and Presentation
-├── Data : data used for modeling
-├── README.md : project information and repository structure
+├── Data: Data used for modeling 
+├── Images: All the images including the one for README file
+├── Notebook: Main notebook
+├── PDF: PDF file of the notebook
+├── README.md: Project information and repository structure
 ```
 
 
